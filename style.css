@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color:#b9e0ed ;
+}
+
+.bigText{
+  font-size: 2em;
+}
+
+.row{
+  display:flex;
+}
+
+.col{
+  flex: 50%;
+}
